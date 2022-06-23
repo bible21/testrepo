@@ -1,0 +1,1 @@
+jre/bin>java com.ibm.jvm.TraceFormat C:\temp\Snap.20220607.020658.62071158.0003.trc
